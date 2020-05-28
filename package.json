@@ -1,0 +1,26 @@
+{
+  "name": "tmxx",
+  "version": "1.0.0",
+  "description": "tmux layout utility",
+  "main": "layout.js",
+  "bin": {
+    "tmxx": "bin/tmxx"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pubg/tmxx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pubg/tmxx/issues"
+  },
+  "homepage": "https://github.com/pubg/tmxx#readme",
+  "dependencies": {
+    "js-yaml": "^3.14.0",
+    "yargs": "^15.3.1"
+  }
+}

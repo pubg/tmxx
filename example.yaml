@@ -1,0 +1,8 @@
+name: xxx
+vstack:
+- pwd
+- pwd
+- share: 2
+  hstack:
+  - pwd
+  - ls
